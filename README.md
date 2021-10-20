@@ -2,4 +2,4 @@
 Calculator app using html, css grid, and vanilla js.
 Challenge provided by frontendmentor.io
 Site hosted at 
-### fazekas.netlify.app
+### https://fazekas.netlify.app
