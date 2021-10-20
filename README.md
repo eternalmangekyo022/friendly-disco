@@ -1,4 +1,5 @@
 
-Calculator app in using html, css grid, and vanilla js.
+Calculator app using html, css grid, and vanilla js.
 Challenge provided by frontendmentor.io
-#### Site hosted at fazekas.netlify.app
+Site hosted at 
+### fazekas.netlify.app
